@@ -4,9 +4,9 @@
 ⚠️ Внимание: плейс может просто кикать вас за то что вы очень высоко летаете\бегаете
 
 📸 Превью
-<img width="873" height="491" alt="image" src="https://github.com/user-attachments/assets/0fe07317-38d9-4099-95b0-40211999f870" />
-<img width="873" height="491" alt="image" src="https://github.com/user-attachments/assets/39f6be71-e9e2-431e-8a6b-a5137babd255" />
-<img width="873" height="491" alt="image" src="https://github.com/user-attachments/assets/f8ab515f-519f-4991-8fc2-2adc58ad6678" />
+<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/0fe07317-38d9-4099-95b0-40211999f870" />
+<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/39f6be71-e9e2-431e-8a6b-a5137babd255" />
+<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/f8ab515f-519f-4991-8fc2-2adc58ad6678" />
 
 Main UICombat FeaturesVisuals ESP
 
